@@ -30,6 +30,6 @@ Integrating preschool assessment data from the NIEER yearbooks with geospatial d
 ### Tools and Technologies
 - **Data Processing and Analysis:** Python, Pandas, NumPy
 - **Geospatial Analysis:** GeoPandas, ArcGIS
-- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Data Visualization:** Matplotlib, Seaborn
 
 
