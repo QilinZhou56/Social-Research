@@ -21,6 +21,7 @@ Our analysis is based on data from two primary sources:
 
 ### Methodology
 Integrating preschool assessment data from the NIEER yearbooks with geospatial data from the Census Bureau to perform comprehensive analysis.
+Managed data using Power Query and MySQL
 
 ### Objectives
 - Evaluate and compare preschool assessment strategies across states.
