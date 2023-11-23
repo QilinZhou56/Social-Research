@@ -20,12 +20,18 @@ Our analysis is based on data from two primary sources:
    - [Census Bureau TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
 
 ### Methodology
-Integrating preschool assessment data from the NIEER yearbooks with geospatial data from the Census Bureau to perform comprehensive analysis.
+Integrating preschool assessment data from the NIEER yearbooks with geospatial data from the Census Bureau to perform comprehensive analysis, including DID model
+and probit regression.
 
 ### Objectives
 - Evaluate and compare preschool assessment strategies across states.
 - Understand the impact of these strategies on early childhood education outcomes.
 - Provide data-driven insights for policymakers and educational stakeholders.
+
+### Results and Reflection
+- From 2007 to 2018, changes in assessment policies did not lead to improvements in student enrollment or resource allocation in the case analysis of South Carolina and Texas.
+
+- While the assessment policy may not have a direct relationship with the overall performance of state preschool programs, it does reflect the quality of preK education a state aspires to provide and the level of attention it devotes to preK education. Despite the increasing emphasis on new assessment designs, resource allocation and enrollment rates did not increase or remain stable as expected. This calls for a re-evaluation of preschool resource allocation and an examination of the factors influencing household enrollment decisions.
 
 ### Tools and Technologies
 - **Data Processing and Analysis:** Python, Pandas, NumPy
