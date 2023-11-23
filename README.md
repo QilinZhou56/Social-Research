@@ -41,5 +41,5 @@ and probit regression.
 
 ### Interactive Apps:
 - Time-series PreK Education Data Visualization: [ArcGIS Visualization](https://arcg.is/nbK4v0)
-- Interative Legend version: [ArcGIS Visualization](https://arcg.is/0f0rHH0)
+- Interative Legend Version: [ArcGIS Visualization](https://arcg.is/0f0rHH0)
 
